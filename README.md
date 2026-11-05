@@ -33,6 +33,7 @@ I post about BIM in Malaysia as **Buruh Hybrid**, and I teach kids Scratch and m
   <img src="https://img.shields.io/badge/Power_BI-13213A?style=for-the-badge" alt="Power BI" />
   <img src="https://img.shields.io/badge/Power_Query-13213A?style=for-the-badge" alt="Power Query" />
   <img src="https://img.shields.io/badge/PMI--ACP_certified-FF6A13?style=for-the-badge" alt="PMI-ACP certified" />
+  <img src="https://img.shields.io/badge/Power_BI_Data_Analyst_(PL--300)-FF6A13?style=for-the-badge" alt="Microsoft Certified: Power BI Data Analyst Associate (PL-300)" />
 </p>
 
 ## What I'm learning
