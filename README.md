@@ -6,7 +6,7 @@
 
 I trained as a civil engineer, started out modeling in BIM, and now build the tools I used to wish I had.
 
-Most of my work sits where BIM meets software: Revit automation, model validation, reporting, and getting AI into day-to-day engineering. The question I care about has moved from "how do I automate this task?" to "how do I deploy this to hundreds of users?"
+Most of my work sits where BIM meets software: Revit automation, model validation, reporting, and getting AI into day-to-day engineering. The question I care about has moved from "how do I automate this task?" to "how do I deploy this to users?"
 
 I post about BIM in Malaysia as **Buruh Hybrid**, and I teach kids Scratch and micro:bit robotics part-time.
 
